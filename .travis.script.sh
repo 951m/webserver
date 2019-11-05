@@ -1,6 +1,6 @@
 #!/bin/bash -xe
 
-DOCKER_ORG="clomps"
+DOCKER_ORG="refkaa"
 DOCKER_IMAGE="webserver"
 DOCKER_TAG="latest"
 
